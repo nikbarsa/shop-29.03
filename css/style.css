@@ -159,7 +159,7 @@ body {
 .head__items {
     margin-top: 40px;
     margin-bottom: 40px;
-    padding: 0 0 0 770px;
+
 }
 
 .sales__item--shoes {
@@ -182,6 +182,8 @@ body {
     font-size: 30px;
     line-height: 36px;
     color: #222222;
+    text-align: center;
+    margin-right: 70px;
 }
 
 .catalog-text {
@@ -189,6 +191,7 @@ body {
     font-size: 14px;
     line-height: 17px;
     color: #9F9F9F;
+    text-align: center;
 }
 
 .catalog__photo {
@@ -237,4 +240,183 @@ body {
 
 .catalog__title {
     margin-left: 65px;
+}
+
+.footer__services-text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer__delivery {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.96px;
+    line-height: 24px;
+    color: #FBFBFB;
+    margin-top: 28px;
+    text-align: center;
+}
+
+.footer__text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13.972px;
+    line-height: 17px;
+    text-align: center;
+    color: #FBFBFB;
+    margin-top: 17px;
+}
+
+.footer__services {
+    left: 0%;
+    right: 0%;
+    top: 77.32%;
+    bottom: 13.77%;
+    background: #222224;
+    height: 400px;
+}
+
+.footer__img {
+    margin-top: 103px;
+}
+
+.footer__sales {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.96px;
+    line-height: 24px;
+    color: #FBFBFB;
+    margin-top: 28px;
+    text-align: center;
+    margin-top: 28px;
+}
+
+.footer__Quality {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.96px;
+    line-height: 24px;
+    color: #FBFBFB;
+    margin-top: 28px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.delivery {
+    text-align: center;
+}
+
+.sales__img {
+    margin-top: 104px;
+}
+
+.sales {
+    text-align: center;
+}
+
+.corona__img {
+    margin-top: 103px;
+}
+
+.Quality {
+    text-align: center;
+}
+
+.operator-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #222224;
+    margin-top: 50px;
+
+}
+
+.registration {
+    background-image: url(../img/photo_subscribe.png);
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.operator__img {
+    margin-top: 110px;
+}
+
+.registration-words {
+    margin-top: 150px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 167.2%;
+    text-align: center;
+    color: #222224;
+}
+
+.operator__head {
+    text-align: center;
+}
+
+.registration-head {
+    text-align: center;
+}
+
+.registration-email {
+    left: 57.31%;
+    right: 22.53%;
+    top: 54.24%;
+    bottom: 34.82%;
+    background: #E1E1E1;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 50px;
+    border: 0px solid;
+    width: 300px;
+    margin-top: 40px;
+
+}
+
+.button {
+    left: 73.31%;
+    right: 20.44%;
+    top: 54.24%;
+    bottom: 34.82%;
+    background: #F16D7F;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 0px solid;
+    height: 50px;
+    width: 100px;
+}
+
+.contact {
+    left: 0%;
+    right: 0%;
+    top: 97.94%;
+    bottom: 0%;
+    background: #222224;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.brand {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FBFBFB;
+    margin-top: 40px;
+}
+
+.brands {
+    height: 50px;
+    width: 100px;
+    margin-top: 30px;
+}
+
+.twitter {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
 }
