@@ -35,6 +35,11 @@ body {
     background-color: var(--black);
 }
 
+.woman {
+    text-align: center;
+
+}
+
 .header__wrp {
     display: flex;
     justify-content: space-between;
