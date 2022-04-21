@@ -624,6 +624,10 @@ body {
     padding-right: 10px;
 }
 
+.mark {
+    padding-right: 10px;
+}
+
 .regist {
     display: flex;
     justify-content: space-around;
